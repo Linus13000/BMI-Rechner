@@ -1,18 +1,19 @@
 # BMI-Berechner
+**Erklärung**
 Dieses Programm dient zur Berechnung des BMI's einer Person.
 
 Benutzung: 
 ------------
 **Programm herunterladen:**
-'''Shell
+```Shell
 wget https://github.com/Linus13000/BMI-Rechner/archive/master.zip
-'''
+```
 **Programm auspacken:**
-'''Shell
+```Shell
 sudo apt install unzip
 unzip master
-'''
+```
 **Programm starten:**
-'''Shell
+```Shell
 python BMI-Rechner-master/main.py
-'''
+```
